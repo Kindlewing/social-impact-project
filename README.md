@@ -15,7 +15,7 @@ This is a really good overall resource for a lot of differant things:
 - https://edu.gcfglobal.org/en/subjects/tech/
 
 10 Tips: How to Manage Your Files With Windows 10's File Explorer:
-- https://www.pcmag.com/news/10-tips-how-to-manage-your-files-with-windows-10s-file-explorer
+- https://www.pcmag.com/news/10-tips-how-to-manage-your-files-with-windows-10s-file-explorer 
 Mac
 - https://thefrisky.com/how-to-organize-your-files-folders-documents-on-mac/
 
