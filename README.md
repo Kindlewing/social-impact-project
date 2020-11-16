@@ -5,7 +5,7 @@
 ### Resources below:
 
 
-What is a Window? 
+**What is a Window?** 
 - https://www.computerhope.com/jargon/w/window.htm
 
 What are operating systems?
