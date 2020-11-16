@@ -76,7 +76,9 @@ Video Call
 How to learn the hidden secrets of the computer; a guide
 
 Step 1: Install Linux.
+
 Step 2: Learn Linux
+
 Step 3: Repeat steps 1-2… Forever...
 
 
