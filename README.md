@@ -22,7 +22,7 @@ Mac
 How to use libraries on Windows 10:
 - https://www.windowscentral.com/how-use-libraries-windows-10
 
-Mac
+  Mac
 - https://thefrisky.com/how-to-organize-your-files-folders-documents-on-mac/
 
 Avoiding scams
