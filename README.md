@@ -66,6 +66,7 @@ Mac
 
 Screenshots
 - https://edu.gcfglobal.org/en/techsavvy/taking-screenshots/1/
+
 Windows 10
 - https://support.microsoft.com/en-us/windows/how-to-take-and-annotate-screenshots-on-windows-10-ca08e124-cc30-2579-3e55-6db63e36fbb9
 - https://www.cnet.com/how-to/7-ways-you-can-take-screenshots-in-windows-10/
