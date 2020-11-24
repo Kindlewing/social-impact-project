@@ -1,6 +1,6 @@
-# Social Impact Project by Hudson Finn and Christian Kunis
+# Social Impact Project
 
-### We want to create some resources that can help people who are not tech-savvy to become more familiar with computers and to be able to better interact with the increasing technology of the world. There are two groups of people that are of interest to this project: the students and family members. 
+### We put together some resources to help people with various computer problems. Our hope is that centralizing these resources will make it easier and quicker to find the help you need. 
 
 ### Resources below:
 
